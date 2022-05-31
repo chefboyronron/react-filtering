@@ -1,3 +1,4 @@
+import React from 'react';
 import styles from '../styles/FilterContent.module.css';
 import { Row } from 'antd';
 import PersonItem from './PersonItem';

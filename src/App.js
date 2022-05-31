@@ -1,3 +1,4 @@
+import React from 'react';
 import 'antd/dist/antd.min.css';
 import './App.css';
 import moment from 'moment';
