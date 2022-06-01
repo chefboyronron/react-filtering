@@ -2,15 +2,18 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: #333;
-    overflow-x: hidden;
 }
 
 .wrapper {
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
   
 .container-fluid {
     margin: 0 auto;
     max-width: 1200px;
     padding: 0 15px;
+}
+
+.m-auto {
+    margin: 20% auto;
 }
